@@ -1,0 +1,8 @@
+{
+  "emergencies": [
+    { "id": 1, "lat": "19.4537", "lng": "-99.1522", "user_id": 1 }
+  ],
+  "users": [
+    { "id": 1, "name": "Saul Espinosa Ruiz" }
+  ]
+}
