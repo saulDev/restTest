@@ -7,6 +7,6 @@
   ],
   "messages": [
     { "id": 1, "titlo": "¡Atención!", "mensaje": "Recuerda que debes realizar una revisión de tu casa antes de salir de viaje.", "fecha": "2018-10-16", "category_id": 1, "img": "https://placeimg.com/640/480/arch" },
-    { "id": 1, "titlo": "Bueva alerta amber", "mensaje": "Ayudanos a que ... vuelva a casa", "fecha": "2018-10-16", "category_id": 2, "img": "https://placeimg.com/640/480/people" }
+    { "id": 2, "titlo": "Bueva alerta amber", "mensaje": "Ayudanos a que ... vuelva a casa", "fecha": "2018-10-16", "category_id": 2, "img": "https://placeimg.com/640/480/people" }
   ]
 }
