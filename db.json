@@ -3,7 +3,8 @@
     { "id": 1, "lat": "19.4537", "lng": "-99.1522", "user_id": 1 }
   ],
   "users": [
-    { "id": 2, "name": "Saul Espinosa Ruiz" }
+    { "id": 2, "name": "Saul Espinosa Ruiz" },
+    { "id": 3, "name": "Jonh Doe" }
   ],
   "messages": [
     { "id": 1, "titulo": "¡Atención!", "mensaje": "Recuerda que debes realizar una revisión de tu casa antes de salir de viaje.", "fecha": "2018-10-16", "category_id": 1, "img": "https://placeimg.com/640/480/arch" },
