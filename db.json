@@ -20,5 +20,10 @@
     { "id": 1, "user_id": 1, "datetime": "2018-10-20 10:10:00", "lat": 19.45, "lng": -99.213 },
     { "id": 2, "user_id": 1, "datetime": "2018-10-20 11:10:00", "lat": 19.41, "lng": -99.444 },
     { "id": 3, "user_id": 2, "datetime": "2018-10-20 22:10:00", "lat": 19.43, "lng": -99.1113 }
+  ],
+  "vial_reports": [
+    { "id": 1, "datetime": "2018-10-20 10:10:00", "text": "En A.V. Juan de la Luz Enriquez hay mucho tráfico."},
+    { "id": 2, "datetime": "2018-10-20 11:10:00", "text": "En A.V. Juan de la Luz Enriquez hay mucho tráfico."},
+    { "id": 3, "datetime": "2018-10-20 22:10:00", "text": "En A.V. Juan de la Luz Enriquez hay mucho tráfico."}
   ]
 }
