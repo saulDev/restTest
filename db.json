@@ -10,5 +10,11 @@
     { "id": 1, "titulo": "¡Atención!", "mensaje": "Recuerda que debes realizar una revisión de tu casa antes de salir de viaje.", "fecha": "2018-10-16", "category_id": 1, "img": "https://placeimg.com/640/480/arch" },
     { "id": 2, "titulo": "Bueva alerta amber", "mensaje": "Ayudanos a que ... vuelva a casa", "fecha": "2018-10-16", "category_id": 2, "img": "https://placeimg.com/640/480/people" },
     { "id": 3, "titulo": "Es importante el siguiente consejo", "mensaje": "Recuerda cuidar el medio ambiente", "fecha": "2018-10-16", "category_id": 3, "img": "https://placeimg.com/640/480/nature" }
-  ]
+  ],
+  "store_emergencies": [
+    { "id": 1, "store_id": 1, "datetime": "2018-10-20 10:10:00" },
+    { "id": 2, "store_id": 1, "datetime": "2018-10-20 21:10:00" },
+    { "id": 3, "store_id": 2, "datetime": "2018-10-20 22:10:00" },
+    { "id": 4, "store_id": 1, "datetime": "2018-10-20 23:10:00" }
+  ],
 }
